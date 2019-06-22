@@ -1,0 +1,1 @@
+/usr/bin/cc   -Wall -Wextra -W -Wdeclaration-after-statement -Wwrite-strings -Wlogical-op -Wshadow   CMakeFiles/ecdh_curve25519.dir/ecdh_curve25519.c.o  -o ecdh_curve25519 -rdynamic ../../library/libmbedtls.so.0.0.0 ../../library/libmbedx509.so.0.0.0 ../../library/libmbedcrypto.so.0.0.0 -Wl,-rpath,/home/node9/blockchain/mbedtls/library 
